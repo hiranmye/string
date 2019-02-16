@@ -1,2 +1,2 @@
-mystring  = raw_input("")[::-1]
+mystring  = raw_input "" [::-1]
 print mystring
